@@ -6,7 +6,19 @@ html {
   height: 100%;
 }
 
+h1 {
+  margin: 0;
+  min-height: 100%;
+  font-family: 'Lato', sans serif;
+  background: red;
+}
+
 body {
   margin: 0;
   min-height: 100%;
+}
+p {
+  margin: 100;
+  background-color: #999999;
+  font-family: 'Roman', sans serif;
 }
